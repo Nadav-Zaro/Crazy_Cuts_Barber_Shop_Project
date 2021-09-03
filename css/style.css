@@ -456,13 +456,7 @@ height: 34%;
         width: 100%;
     }
     #imgSlide1{
-        top: 100%;
-    }
-    #imgSlide2{
-        bottom: -80%;
-    }
-    #imgSlide3{
-        bottom: -130%;
+        top: 170%;
     }
     #formContainer{
         width: 60%;
