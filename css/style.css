@@ -439,6 +439,9 @@ height: 34%;
             font-size: 3vh;
         }
     }
+    #gallery{
+        height: 80%;
+    }
     #info{
         height: 60%;
         width: 48%;
