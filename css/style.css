@@ -455,11 +455,21 @@ height: 34%;
     .barbers1 {
         width: 100%;
     }
+    #barber2{
+        height: 70vh;
+    }
     #imgSlide1{
-        top: 170%;
+        top: 185%;
+    }
+    #imgSlide2{
+        top: 270%;
+    }
+    #imgSlide3{
+        top: 353%;
     }
     #formContainer{
         width: 60%;
         left: 20%;
+        margin-top: -60%;
     }
 }
